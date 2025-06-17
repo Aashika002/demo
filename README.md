@@ -1,2 +1,3 @@
 # demo
-this is my first learning repository
+This is my first learning repository
+Author- Aashika
